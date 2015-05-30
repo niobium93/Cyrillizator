@@ -7,6 +7,9 @@
 // @grant        none
 // ==/UserScript==
 
+//TODO: Color replaced letters.
+//TODO: Add a toggle switch of some sort.
+
 var arReplacements = {
 	'B': 'Б',
 	'V': 'В',
